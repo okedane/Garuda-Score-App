@@ -1,16 +1,7 @@
-# live_score
+# Garuda_Score
 
-A new Flutter project.
+Garuda Score adalah aplikasi yang dirancang khusus untuk para penggemar Timnas Indonesia. Aplikasi ini menyediakan berbagai fitur menarik untuk memudahkan Anda mengikuti perkembangan tim kesayangan Anda:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Match: Menampilkan hasil pertandingan (score) dari Timnas Indonesia, lengkap dengan informasi pertandingan seperti kompetisi, wasit, stadion, dan statistik.
+2. Standing: Berisi klasemen terbaru Timnas Indonesia di berbagai kompetisi.
+3. Players: Menyajikan daftar nama-nama pemain skuad Timnas Indonesia beserta nomor punggung mereka.
