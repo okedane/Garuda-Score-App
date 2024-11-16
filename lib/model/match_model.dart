@@ -60,6 +60,37 @@ class MatchModel {
 
 var matchModelList = [
   MatchModel(
+    countryHome: "Indonesia",
+    flagHome: 'assets/images/flag/Indonesia.png',
+    playerGoalHome: [''],
+    menitGoalHome: [""],
+    shotOnGoalHome: "3",
+    shotAttemptsHome: "8",
+    foulsHome: "8",
+    yellowCarsdHome: "0",
+    redCardsHome: "0",
+    cornertKickHome: "4",
+    savesHome: "4",
+    // ---------------------
+    score: "0 - 4",
+    countryAway: "Jepang",
+    flagAway: 'assets/images/flag/Japan.png',
+    playerGoalAway: ['J. Hubner', 'T.Minamito', 'H.Morita', 'Y.sugawara'],
+    menitGoalAway: ["35 (OG)", "40", "49", "69"],
+    shotOnGoalAway: "5",
+    shotAttemptsAway: "19",
+    foulsAway: "7",
+    yellowCarsdAway: "3",
+    redCardsAway: "0",
+    cornertKickAway: "15",
+    savesAway: "2",
+    // -----------------------
+    competition: "Qualifiers Word Cup",
+    logoCompetition: "assets/images/competition/Qualifiers_WC.png",
+    referee: "Gelora Bung Karno Stadium",
+    stadium: "Mooud Bonyadifard",
+  ),
+  MatchModel(
     countryHome: "China",
     flagHome: 'assets/images/flag/Cina.png',
     playerGoalHome: ['B. Abduweli', 'Y.Zhang'],
